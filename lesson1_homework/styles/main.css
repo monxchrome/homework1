@@ -1,0 +1,67 @@
+.body{
+    margin: 0;
+}
+
+.history{
+    background: cornflowerblue;
+}
+
+.img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.text{
+    color: yellow;
+    background: #000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.text_h{
+    background: #6ac8fd;
+}
+
+.text_b{
+    background: #349edc;
+}
+
+.text_l{
+    background: #f3ad8a;
+}
+
+.wrap{
+    height: 300px;
+}
+
+.homer{
+    color: yellow;
+    background: silver;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.bart{
+    color: yellow;
+    background: #f24f29;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.lisa{
+    color: yellow;
+    background: #f05f30;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
