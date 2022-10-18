@@ -1,0 +1,57 @@
+.mother{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.father{
+    display: flex;
+    flex-direction: column;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+
+.block{
+    background: white;
+    width: 500px;
+    height: 200px;
+    border-radius: 5px;
+    margin: 20px;
+}
+
+.title{
+    text-align: center;
+    margin-left: 40px;
+}
+
+.text{
+    position: relative;
+    color: coral;
+    font-size: 20px;
+    align-items: center;
+    display: inline-block;
+    padding-left: 200px;
+}
+
+.desc{
+    text-align: left;
+    padding-left: 200px;
+    font-size: small;
+    display: inline-block;
+    margin: 0;
+}
+
+.fa-solid{
+    position: absolute;
+    color: silver;
+    padding-left: 75px;
+    margin-top: 80px;
+    font-size: 40px;
+}
+
+.fa-brands{
+    position: absolute;
+    color: silver;
+    padding-left: 75px;
+    margin-top: 80px;
+    font-size: 40px;
+}

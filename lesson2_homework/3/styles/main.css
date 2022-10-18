@@ -1,0 +1,54 @@
+.main{
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 50px;
+}
+
+.father{
+    height: 300px;
+    width: 200px;
+    box-shadow: 1px 1px 10px #e6e6e6;
+    display: flex;
+    justify-content: center;
+    margin-top: 200px;
+}
+
+.mother{
+    padding-top: 40px;
+}
+
+.fa-solid{
+    display: flex;
+    justify-content: center;
+    font-size: 25px;
+    color: silver;
+}
+
+.title{
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+    color: #c59680;
+    font-size: large;
+    margin-top: 10px;
+}
+
+.description{
+    display: flex;
+    text-align: center;
+    padding-top: 10px;
+    color: #e6e6e6;
+}
+
+.button{
+    background: #54c3b6;
+    width: 100px;
+    height: 50px;
+    margin-left: 50px;
+}
+
+.text{
+    color: white;
+    text-align: center;
+    padding-top: 15px;
+}
