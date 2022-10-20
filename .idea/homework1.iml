@@ -6,5 +6,9 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="d4879b1e1f" level="application" />
+    <orderEntry type="library" name="plugins" level="application" />
+    <orderEntry type="library" name="jquery_002" level="application" />
+    <orderEntry type="library" name="bootstrap" level="application" />
+    <orderEntry type="library" name="jquery" level="application" />
   </component>
 </module>
